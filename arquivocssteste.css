@@ -152,10 +152,6 @@
   position: relative;
   z-index: 50;
 }
-#LisaFC2:hover .LisaFC2txt1 {
-  opacity: 1;
-  transition: 1.5s;
-}
 .LisaFC2ima2 {
   margin: 3px;
   width: 124px;
