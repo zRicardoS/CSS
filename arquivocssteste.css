@@ -1,0 +1,164 @@
+.LisaFC0 {
+  margin: auto;
+  width: 560px;
+  height: 610px;
+}
+.LisaFC1 {
+  width: 520px;
+  height: 570px;
+  border: 5px solid var(--L1);
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: -600px 10px 10px 10px;
+  position: relative;
+  z-index: 10;
+}
+.LisaFC2txt33 {
+  height: 180px;
+  background: var(--L1);
+  padding-right: 5px;
+  border: 20px solid var(--L1);
+  border-right: 15px solid var(--L1);
+  font-family: verdana;
+  text-align: justify;
+  font-size: 10px;
+  color: var(--L2);
+  line-height: 160%;
+  overflow-y: scroll;
+}
+.LisaFC2tit {
+  width: 315px;
+  text-transform: uppercase;
+  font-family: 'Abril Fatface';
+  color: var(--L1);
+  font-size: 42px;
+  text-align: center;
+  line-height: 100%;
+  margin: 0px 10px 0px 40px;
+}
+.cre {
+  margin: 0 auto;
+  width: 200px;
+  margin-top: 5px;
+  background: linear-gradient(0deg, var(--L2), var(--L3));
+  border-radius: 20px;
+  padding: 2px;
+  text-align: center;
+  font-family: Verdana;
+  font-size: 8px;
+  text-transform: uppercase;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 4px;
+}
+#LisaFC2 a {
+  color: var(--L1);
+}
+#LisaFC2 div::-webkit-scrollbar {
+  width: 1px;
+  height: 1px;
+  background: var(--L1);
+  border: 0px solid var(--L1);
+}
+#LisaFC2 div::-webkit-scrollbar-thumb {
+  background: var(--L4);
+  border: 0px solid var(--L1);
+}
+.LisaFC2txt1 {
+  display: block;
+  content: '';
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  left: 0px;
+  height: 220px;
+  padding: 35px;
+  margin: 20px 40px 25px 40px;
+  position: relative;
+  opacity: 0;
+  border-bottom: 1px solid var(--L1);
+  border-right: 1px solid var(--L1);
+  border-top: 1px solid var(--L1);
+  border-left: 1px solid var(--L1);
+}
+#LisaFC2 bb {
+  color: var(--L4);
+  font-weight: 600;
+}
+#LisaFC2 cc {
+  color: var(--L4);
+}
+#LisaFC2 ii {
+  color: var(--L4);
+  font-style: italic;
+}
+.LisaFC31 {
+  width: 560px;
+  height: 610px;
+  background: linear-gradient(0deg, var(--L2), var(--L3));
+  mix-blend-mode: multiply;
+}
+.LisaFC31color {
+  width: 560px;
+  height: 610px;
+  background: linear-gradient(0deg, var(--L2), var(--L3));
+  mix-blend-mode: color;
+  margin-top: -610px;
+}
+.LisaFC311 {
+  width: 530px;
+  height: 560px;
+}
+.LisaFC2ima {
+  width: 130px;
+  height: 130px;
+  border-radius: 100%;
+  border: 5px solid var(--L1);
+  margin-right: 40px;
+  position: relative;
+  z-index: 11;
+}
+.LisaFC3111 {
+  width: 530px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+}
+.LisaFCdatdat {
+  width: 490px;
+  padding: 20px 20px 0px 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+}
+.lsdat {
+  margin: 10px 10px 10px 10px;
+  font-family: Verdana;
+  font-size: 7px;
+  text-transform: uppercase;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 100%;
+  letter-spacing: 2px;
+  color: var(--L1);
+  border: 1px solid var(--L1);
+  padding: 7px;
+  position: relative;
+  z-index: 50;
+}
+#LisaFC2:hover .LisaFC2txt1 {
+  opacity: 1;
+  transition: 1.5s;
+}
+.LisaFC2ima2 {
+  margin: 3px;
+  width: 124px;
+  height: 124px;
+  border-radius: 100%;
+}
